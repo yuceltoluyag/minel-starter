@@ -5,6 +5,7 @@
   "scripts": {
     "start": "gulp",
     "start:dev": "gulp --noserviceworker",
+    "build": "NODE_ENV=production npx gulp build_prod",
     "lint": "eslint '_assets/js/**/*.js'",
     "prettier": "prettier '_assets/js/**/*.js' --write"
   },

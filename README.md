@@ -3,7 +3,7 @@
 Optimized for Speed :]
 
 ```bash
-git clone
+git clone git@github.com:yuceltoluyag/minel-starter.git
 npm install
 bundle install && bundle update
 npm run start

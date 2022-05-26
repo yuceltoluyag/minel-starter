@@ -1,6 +1,6 @@
 # Routes
-domain: 'https://yuceltoluyag.github.io/minel-starter/'
-url: 'https://yuceltoluyag.github.io/minel-starter/'
+domain: 'https://yuceltoluyag.github.io/minel-starter'
+url: 'https://yuceltoluyag.github.io/minel-starter'
 assets_root: /assets/
 assets_media: /assets/images/
 permalink: '/:title/'

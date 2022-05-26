@@ -1,6 +1,9 @@
 # Baba
 
-Optimized for Speed :]
+Optimized for PageSpeed :]
+
+![Gmetrix Score](2022-05-26_14-19.png 'Gmetrix')
+![Lighthouse Score](2022-05-26_14-19_1.png 'Lighthouse')
 
 ```bash
 git clone git@github.com:yuceltoluyag/minel-starter.git

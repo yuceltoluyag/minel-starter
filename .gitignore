@@ -1,0 +1,16 @@
+*.gem
+.bundle
+node_modules
+.jekyll-cache
+.jekyll-metadata
+.jekyll-cache
+.sass-cache
+.env
+.vscode
+.awspublish-*
+*.Zone.Identifier
+_site
+Gemfile.lock
+.DS_Store
+build_dev
+build_prod

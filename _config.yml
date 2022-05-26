@@ -1,0 +1,55 @@
+title: Your awesome title
+email: your-email@example.com
+description: >-
+  Selam Sana Ey Şişko
+baseurl: ''
+url: ''
+permalink: '/:title/'
+social:
+  github: yuceltoluyag
+  twitter: yuceltoluyag
+  instagram: yuceltoluyag
+
+incremental: false
+disable_disk_cache: true
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+keep_files: ['assets']
+
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      is_post: true
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: page
+      is_post: false
+
+collections:
+  projects:
+    output: true
+plugins:
+  - jekyll-feed
+
+# Aşağıdaki öğeler yoksayılacak ve varsayılan olarak "_site"ye KOPYALANMAYACAKTIR.
+exclude:
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+  - '*.config.js'
+  - '.*'
+  - '*.lock'
+  - '*.log'
+  - Gemfile
+  - package.json
+  - package-lock.json

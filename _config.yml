@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >-
   Selam Sana Ey Şişko
 baseurl: ''
-url: ''
+url: 'https://yuceltoluyag.github.io/minel-starter/'
 permalink: '/:title/'
 social:
   github: yuceltoluyag

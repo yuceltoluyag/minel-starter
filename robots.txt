@@ -3,5 +3,5 @@ User-agent: *
 Disallow: /404.html
 
 
-Sitemap: https://yuceltoluyag.github.io/minel-starter//sitemap.xml
+Sitemap: https://yuceltoluyag.github.io/minel-starter/sitemap.xml
 Host: yuceltoluyag.github.io

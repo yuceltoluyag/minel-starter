@@ -18,6 +18,11 @@ production test
 gulp build_prod
 ```
 
+# Jekyll Tailwind Starter Template
+[TW Branch](https://github.com/yuceltoluyag/minel-starter/tree/tailwind)
+
+![Tailwind](https://raw.githubusercontent.com/yuceltoluyag/minel-starter/tailwind/2022-06-05_04-58.png 'Tailwind Test')
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

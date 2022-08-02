@@ -2,7 +2,7 @@ import { spawn } from 'child_process'
 import path from 'path'
 
 import browsersync from 'browser-sync'
-import del from 'del'
+import {deleteAsync} from 'del'
 import gulp from 'gulp'
 import autoprefixer from 'gulp-autoprefixer'
 import babel from 'gulp-babel'

@@ -94,11 +94,11 @@ export const copy_prod = gulp.series(copy_fonts_prod, copy_media_prod)
  * Clean folders and files specified in the config
  */
 function clean_dev() {
-  return del(configDev.delete.src)
+  return await deleteAsync(configDev.delete.src)
 }
 
 function clean_prod() {
-  return del(configProd.delete.src)
+  return await deleteAsync(configProd.delete.src)
 }
 
 function convert_media_webp() {

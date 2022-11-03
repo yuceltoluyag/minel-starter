@@ -46,7 +46,7 @@
     "canvas": "^2.9.3",
     "chalk": "^5.1.2",
     "del": "^7.0.0",
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "eslint": "^8.26.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",

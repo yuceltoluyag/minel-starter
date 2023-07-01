@@ -40,7 +40,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
-    "@babel/register": "^7.18.9",
+    "@babel/register": "^7.22.5",
     "broken-link-checker": "^0.7.8",
     "browser-sync": "^2.29.3",
     "canvas": "^2.9.3",
